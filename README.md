@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1>Thats a header</h1>
-</ br>
+</br>
 <p>This is a very very long (sarcastic) paragraph.</p>
 </body>
 </html>
